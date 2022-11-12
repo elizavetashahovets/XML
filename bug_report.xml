@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <bug_id>1</bug_id>
+    <title>Текст внутри кнопки «Submit» смещён вправо на главной странице сайта http://itcareer.pythonanywhere.com/</title>
+    <severity>trivial</severity>
+    <priority>low</priority>
+    <environment>MacOS Catalina 10.15.7. Safari v. 13.1.3 (15609.4.1)</environment>
+    <str>Открыть сайт http://itcareer.pythonanywhere.com/</str>
+    <ar>Текст внутри кнопки «Submit» смещён вправо</ar>
+    <er>Текст внутри кнопки «Submit» находится по центру</er>
+</root>
